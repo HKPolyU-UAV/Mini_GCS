@@ -1,0 +1,19 @@
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\Mini_GCS_beta.exe
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\Mini_GCS_beta.pdb
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.Form1.resources
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.Properties.Resources.resources
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.exe
+C:\Users\yifan\Desktop\C# Programs\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.pdb
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.exe
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.pdb
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\Mini_GCS_beta.exe
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\Mini_GCS_beta.pdb
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.Form1.resources
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.Properties.Resources.resources
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.csproj.GenerateResource.Cache
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\GMap.NET.Core.dll
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\cailingfeng\Desktop\Mini_GCS_beta\Mini_GCS_beta\obj\x86\Debug\Mini_GCS_beta.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_GCS_beta", "Mini_GCS_beta\Mini_GCS_beta.csproj", "{237ABFD1-14C8-42C2-9483-4C59C329024E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237ABFD1-14C8-42C2-9483-4C59C329024E}.Debug|x86.ActiveCfg = Debug|x86
+		{237ABFD1-14C8-42C2-9483-4C59C329024E}.Debug|x86.Build.0 = Debug|x86
+		{237ABFD1-14C8-42C2-9483-4C59C329024E}.Release|x86.ActiveCfg = Release|x86
+		{237ABFD1-14C8-42C2-9483-4C59C329024E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
